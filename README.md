@@ -43,4 +43,4 @@ lake build
 ## Attribution
 
 The method of proof is due to Gebhard Böckle (University of Heidelberg), and is carried out for
-the Bruhat–Tits building of `GL_r` in the PhD thesis of Sriram Chinthalagiri Venkata. This Lean 4 formalization was developed with assistance from [Aristotle by Harmonic](https://aristotle.harmonic.fun). I directed the proof strategy and guided the formalization through iterative prompting.
+the Bruhat–Tits building of `GL_r` in my PhD thesis. This Lean 4 formalization was developed with assistance from [Aristotle by Harmonic](https://aristotle.harmonic.fun). I directed the proof strategy and guided the formalization through iterative prompting.
